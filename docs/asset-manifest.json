@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tienda-online/static/css/main.007dfee7.css",
+    "main.js": "/tienda-online/static/js/main.b82b4377.js",
+    "static/js/787.28cb0dcd.chunk.js": "/tienda-online/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/tienda-online/index.html",
+    "main.007dfee7.css.map": "/tienda-online/static/css/main.007dfee7.css.map",
+    "main.b82b4377.js.map": "/tienda-online/static/js/main.b82b4377.js.map",
+    "787.28cb0dcd.chunk.js.map": "/tienda-online/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.007dfee7.css",
+    "static/js/main.b82b4377.js"
+  ]
+}

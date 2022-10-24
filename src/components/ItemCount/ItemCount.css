@@ -1,0 +1,12 @@
+.itemCountContainer {
+  color: brown;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.itemCountContainer div {
+  display: flex;
+  margin-top: 5px;
+}
